@@ -1,5 +1,5 @@
 # bigdata-analytics-projects
-Pyspark projects spanning from
+Big Data projects using pyspark
 
 1. Text Analytics
 2. Graph Analytics
